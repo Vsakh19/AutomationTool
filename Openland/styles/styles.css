@@ -1,0 +1,41 @@
+@import url('./normalize.css');
+
+table{
+    margin-top: 82px;
+}
+
+td{
+    border-right: 1px solid black;
+    border-bottom: 1px solid black;
+    border-collapse: collapse;
+}
+
+.staticPanel{
+    position: fixed;
+    top: 0;
+    background-color: lightgrey;
+    width: 100%;
+    border-bottom: 3px solid black;
+    padding: 15px;
+}
+
+a{
+    text-decoration: none;
+    color: black;
+    font-weight: bold;
+}
+
+.buttonBlock{
+    display: flex;
+    flex-direction: column;
+    max-width: 100px;
+}
+
+button{
+    max-width: 100px;
+}
+
+.panelBlock{
+    display: flex;
+    flex-direction: row;
+}

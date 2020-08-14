@@ -1,0 +1,7 @@
+.post__footerComments{
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    margin-left: 10px;
+    text-decoration: none;
+}

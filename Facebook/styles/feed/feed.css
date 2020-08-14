@@ -1,0 +1,7 @@
+.feed{
+    width: 40vw;
+    max-width: 600px;
+    position: relative;
+    padding: 40px 40px;
+    background: white;
+}

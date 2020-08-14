@@ -1,0 +1,4 @@
+.post__footerContent{
+    display: flex;
+    flex-direction: row;
+}

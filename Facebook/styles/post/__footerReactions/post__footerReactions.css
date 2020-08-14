@@ -1,0 +1,7 @@
+.post__footerReactions{
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    margin-right: 10px;
+    text-decoration: none;
+}

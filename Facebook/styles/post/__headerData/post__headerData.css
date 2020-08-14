@@ -1,0 +1,4 @@
+.post__headerData{
+    display: flex;
+    flex-direction: row;
+}

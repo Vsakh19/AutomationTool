@@ -1,0 +1,24 @@
+@import url('./__footer/post__footer.css');
+@import url('./__footerCommentsCount/post__footerCommentsCount.css');
+@import url('./__footerContent/post__footerContent.css');
+@import url('./__footerReactions/post__footerReactions.css');
+@import url('./__footerReactionsCount/post__footerReactionsCount.css');
+@import url('./__footerReactionsImage/post__footerReactionsImage.css');
+@import url('./__footerComments/post__footerComments.css');
+@import url('./__footerCommentsImage/post__footerCommentsImage.css');
+@import url('./__footerContent/post__footerContent.css');
+@import url('./__header/post__header.css');
+@import url('./__headerAuthor/post__headerAuthor.css');
+@import url('./__headerData/post__headerData.css');
+@import url('./__headerDate/post__headerDate.css');
+@import url('./__headerInfo/post__headerInfo.css');
+@import url('./__headerPicture/post__headerPicture.css');
+@import url('./__main/post__main.css');
+@import url('./__mainImage/post__mainImage.css');
+@import url('./__mainImageBlock/post__mainImageBlock.css');
+@import url('./__mainText/post__mainText.css');
+
+.post{
+    padding: 25px 20px;
+    border-bottom: 1px solid black;
+}

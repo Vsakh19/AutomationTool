@@ -1,0 +1,8 @@
+.post__headerAuthor{
+    text-decoration: none;
+    color: black;
+    cursor: pointer;
+    font-weight: 600;
+    font-family: "Segoe UI Historic";
+    font-size: 16px;
+}

@@ -1,0 +1,21 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>AutoDMs</title>
+    <link rel="stylesheet" href="styles/styles.css">
+</head>
+<body>
+<div class="page">
+    <form class="mainForm" style="display: flex; flex-direction: column">
+        <label for="links">Links</label>
+        <textarea style="min-height: 300px; min-width: 400px" id="links" class="mainForm__links"></textarea>
+        <label for="date">Collect to:</label>
+        <input class="mainForm__date" id="date" type="date">
+        <button class="mainForm__submit">Start</button>
+        <button class="mainForm__localPage">Local page</button>
+    </form>
+</div>
+<script src="popup.js"></script>
+</body>
+</html>
